@@ -19,7 +19,7 @@ global.footer = '𝗢𝗻𝗲 𝗕𝗼𝘁𝘇 𝗯𝘆 𝗗𝗮𝘃𝗶𝗱'
 global.thumb = fs.readFileSync('./image/fake.jpg')
 global.veloriy = fs.readFileSync('./image/kagura.mp4')
 global.sessionName = 'session'
-global.packname = '𝗢𝗻𝗲 𝗕𝗼𝘁𝘇\n\nBuat Stiker WhatsApp Mu\nDi Link Di Bawah Ini\n\nwa.me/6282128475388'
+global.packname = '𝗢𝗻𝗲 𝗕𝗼𝘁𝘇\n\nBuat Stiker WhatsApp Mu\nDi Link Di Bawah Ini\n\nhttps://bit.ly/3Gbo50q'
 global.author = '2022'
 global.sp = '⭔'
 
